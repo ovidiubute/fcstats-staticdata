@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "since": {
+      "year": 1994,
+      "win": 3
+    },
+    "before": {
+      "win": 2
+    }
+  }
+}
