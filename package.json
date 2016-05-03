@@ -1,6 +1,6 @@
 {
   "name": "fcstats-staticdata",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "fcstats staticdata module",
   "main": "index.js",
   "scripts": {
